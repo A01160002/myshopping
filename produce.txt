@@ -1,7 +1,6 @@
 Fruit  &  vegetables
 --------------------
 
-
 bananas
 watermelon
 snow pear
